@@ -1,5 +1,37 @@
+html{
+  background-color: bisque;
+}
+header{
+  text-align: center;
+
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+nav{
+  background-color: burlywood;
+  padding: 10px;
+  color: brown;
+}
+figcaption{
+  font-size: smaller ;
+  text-align: center;
+ color: brown;
+}
+section.p{
+ text-align: center;
+ text-size-adjust:auto; 
+
+
+}
+
+div{
+  text-align: center;
+  float: left;
+  width:25%;
+  background-color: brown;
 }
